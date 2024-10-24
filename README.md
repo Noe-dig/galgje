@@ -2,12 +2,12 @@
 
 ## Te raden woord
 
-|-|h|-|a|d|-|-|-|0|- |- |- |e |e |- |
+|-|h|-|a|d|-|-|-|0|- |- |- |e |e |n |
 
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|- |
 
 ## Score
-![gallow](./images/3.png)
+![gallow](./images/6.png)
 
 ## Beurten
 * E {goed}
