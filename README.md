@@ -11,4 +11,4 @@
 
 ## Beurten
 * E {goed}
-* 
+* D
