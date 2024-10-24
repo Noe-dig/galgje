@@ -12,7 +12,7 @@
 ## Beurten
 * E {goed}
 * D {goed}
-*
+* A
 *
 *
 *
