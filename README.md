@@ -21,7 +21,8 @@
 * C FOUT EERRRRRRR
 * U FOUT EERRRRRRR
 * G FOUT EERRRRRRR
-* N
+* N {goed}
+* I {goed}
 *
 *
 *
