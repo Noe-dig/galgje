@@ -2,7 +2,7 @@
 
 ## Te raden woord
 
-|-|h|i|a|d|i|-|o|-|- |i |- |e |e |n |
+|-|h|i|a|d|i|-|o|-|- |i |r |e |e |n |
 
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|15 |
 
@@ -23,7 +23,7 @@
 * G FOUT EERRRRRRR
 * N {goed}
 * I {goed}
-* R
+* R {goed}
 *
 *
 *
