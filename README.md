@@ -2,9 +2,9 @@
 
 ## Te raden woord
 
-|-|h|-|a|d|-|-|-|0|- |- |- |e |e |n |
+|-|h|i|a|d|i|-|o|-|- |i |- |e |e |n |
 
-|1|2|3|4|5|6|7|8|9|10|11|12|13|14|- |
+|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15 |
 
 ## Score
 ![gallow](./images/6.png)
@@ -21,8 +21,8 @@
 * C FOUT EERRRRRRR
 * U FOUT EERRRRRRR
 * G FOUT EERRRRRRR
-* N
-*
+* N {goed}
+* I {goed}
 *
 *
 *
