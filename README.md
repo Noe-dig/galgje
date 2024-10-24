@@ -7,13 +7,13 @@
 |1|2|3|4|5|6|7|8|9|10|11|12|13|14|
 
 ## Score
-![gallow](./images/1.png)
+![gallow](./images/2.png)
 
 ## Beurten
 * E {goed}
 * D {goed}
 * A {goed}
 * H {goed}
-* B
+* B FOUT EERRRRRRR
 *
 *
